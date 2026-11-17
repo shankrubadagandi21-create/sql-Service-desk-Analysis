@@ -1,0 +1,26 @@
+customer_id,customer_type,location
+1,Business Client,Mysuru
+2,Internal Employee,Hyderabad
+3,Internal Employee,Belagavi
+4,Internal Employee,Mysuru
+5,Business Client,Mysuru
+6,Business Client,Chennai
+7,Internal Employee,Bengaluru
+8,Internal Employee,Belagavi
+9,Internal Employee,Bengaluru
+10,Business Client,Belagavi
+11,Business Client,Chennai
+12,Internal Employee,Mumbai
+13,Business Client,Hyderabad
+14,Internal Employee,Hubballi
+15,Business Client,Chennai
+16,External Customer,Hyderabad
+17,Internal Employee,Belagavi
+18,External Customer,Mysuru
+19,Internal Employee,Chennai
+20,Internal Employee,Pune
+21,External Customer,Hyderabad
+22,Internal Employee,Mumbai
+23,Business Client,Mysuru
+24,External Customer,Mysuru
+25,Business Client,Hyderabad
